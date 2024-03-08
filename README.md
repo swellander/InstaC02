@@ -1,1 +1,1 @@
-# [Get Collab Invite](https://repogate.vercel.app?owner=swellander&repo=InstaC02&installation_id=48217124)
+
